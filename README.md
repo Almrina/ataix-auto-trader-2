@@ -1,4 +1,4 @@
-# order-tracker
+# ataix-auto-trader
 
 This Python script interacts with the Ataix exchange API to track and create sell orders based on the status of previously placed buy orders. It checks the status of buy orders and automatically generates sell orders once the buy order is filled. The script reads orders from a local `orders.json` file and updates the order statuses based on API responses.
 
@@ -18,6 +18,7 @@ You can install the required library with pip:
 
 ```bash
 pip install requests
+```
 
 The script will:
 - Read orders from the `orders.json` file.
