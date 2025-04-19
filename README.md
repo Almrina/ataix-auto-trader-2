@@ -38,4 +38,3 @@ The script will:
 3. The headings are marked with `#` for different levels of headings (`#` for main heading, `##` for subheadings).
 4. Any important file references (like `orders.json`) should be wrapped in backticks to format them as code.
 
-This will give you a nicely formatted `README.md` file once added to your GitHub repository.
